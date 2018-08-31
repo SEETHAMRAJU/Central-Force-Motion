@@ -1,0 +1,1 @@
+function thetaval = fd(rvalue)
